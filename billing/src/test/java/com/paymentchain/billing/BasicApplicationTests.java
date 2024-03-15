@@ -12,6 +12,8 @@ public class BasicApplicationTests {
  
 	//Hello world :)
 	//Hello world :)
+	//Hello world from MacOs
+
 
  @Test
  public void contextLoads() {
