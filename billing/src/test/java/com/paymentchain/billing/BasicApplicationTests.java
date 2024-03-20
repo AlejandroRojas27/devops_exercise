@@ -15,7 +15,6 @@ public class BasicApplicationTests {
 	//Hello world from MacOs
 	//Hello world :) 20-03-2024 
 
-	
  @Test
  public void contextLoads() {
  	    String meessage= "default message cambio test devops";
